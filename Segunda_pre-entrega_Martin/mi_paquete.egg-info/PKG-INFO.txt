@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: mi_paquete
+Version: 1.0
+Summary: Clientes
+Author: Alan Martin
+Author-email: alanpablo69@gmail.com
